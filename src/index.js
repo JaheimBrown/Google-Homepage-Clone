@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename="https://kxngj.github.io/Google-Homepage-Clone/">
+    <Router basename="Google-Homepage-Clone/">
       <App />
     </Router>
   </React.StrictMode>,
