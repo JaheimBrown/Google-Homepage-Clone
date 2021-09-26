@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google-Homepage-Clone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Google-Homepage-Clone/static/js/main.ede9cbd1.chunk.js",
+    "main.js.map": "/Google-Homepage-Clone/static/js/main.ede9cbd1.chunk.js.map",
+    "runtime-main.js": "/Google-Homepage-Clone/static/js/runtime-main.86e63916.js",
+    "runtime-main.js.map": "/Google-Homepage-Clone/static/js/runtime-main.86e63916.js.map",
+    "static/js/2.2084d301.chunk.js": "/Google-Homepage-Clone/static/js/2.2084d301.chunk.js",
+    "static/js/2.2084d301.chunk.js.map": "/Google-Homepage-Clone/static/js/2.2084d301.chunk.js.map",
+    "static/js/3.a88ee038.chunk.js": "/Google-Homepage-Clone/static/js/3.a88ee038.chunk.js",
+    "static/js/3.a88ee038.chunk.js.map": "/Google-Homepage-Clone/static/js/3.a88ee038.chunk.js.map",
+    "index.html": "/Google-Homepage-Clone/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Google-Homepage-Clone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2084d301.chunk.js.LICENSE.txt": "/Google-Homepage-Clone/static/js/2.2084d301.chunk.js.LICENSE.txt",
+    "static/media/Profile.ab419fd7.svg": "/Google-Homepage-Clone/static/media/Profile.ab419fd7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e63916.js",
+    "static/js/2.2084d301.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ede9cbd1.chunk.js"
+  ]
+}
